@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natherik
 - 👀 I’m interested in UX-design and web development
-- 🌱 I’m currently learning front end design
+- 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on nothing...
 - 📫 How to reach me: don't.
 
